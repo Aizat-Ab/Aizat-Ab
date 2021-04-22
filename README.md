@@ -13,3 +13,8 @@
 [![WhatsApp](https://img.shields.io/badge/-WhatsApp-000000??style=flat-square&logo=WhatsApp&logoColor=00FFDE)](https://web.whatsapp.com/)
 
 
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aizat-Ab&layout=compact)](https://github.com/Aizat-Ab/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aizat-Ab&show_icons=true)](https://github.com/Aizat-Ab/github-readme-stats)
+
