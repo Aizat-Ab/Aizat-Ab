@@ -10,6 +10,6 @@
 [![Telegram](https://img.shields.io/badge/-Telegram-000000??style=flat-square&logo=Telegram&logoColor=00FFDE)](https://web.telegram.org/)
 [![Instagram](https://img.shields.io/badge/-Instagram-000000??style=flat-square&logo=Instagram&logoColor=00FFDE)](https://www.instagram.com/aiz.abdukulova/?hl=ru)
 [![Facebook](https://img.shields.io/badge/-Facebook-000000??style=flat-square&logo=Facebook&logoColor=00FFDE)](https://www.facebook.com/aizada.abdukulova.9/)
-[![What'sApp](https://img.shields.io/badge/-What'sApp-000000??style=flat-square&logo=What'sApp&logoColor=00FFDE)](https://web.whatsapp.com/)
+[![WhatsApp](https://img.shields.io/badge/-WhatsApp-000000??style=flat-square&logo=WhatsApp&logoColor=00FFDE)](https://web.whatsapp.com/)
 
 
