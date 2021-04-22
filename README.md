@@ -16,5 +16,5 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aizat-Ab&layout=compact)](https://github.com/Aizat-Ab/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aizat-Ab&show_icons=true&bg_color=172f45&text_color=f1f1eb&icon_color=38a0ff&title_color=eb1f6a)](https://github.com/Aizat-Ab/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aizat-Ab&show_icons=true&bg_color=172f45&text_color=f1f1eb&icon_color=38a0ff&title_colorbddfff)](https://github.com/Aizat-Ab/github-readme-stats)
 
